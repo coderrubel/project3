@@ -1,0 +1,15 @@
+@media (max-width: 576px) { 
+.social{
+    margin-top: 50px;
+    margin-bottom: 50px
+}
+.social_box{
+    padding-bottom: 50px;
+}
+.creat{
+    padding: 50px 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+}

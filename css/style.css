@@ -150,11 +150,11 @@ input:checked + .slider:before {
 }
 .creat h2{
     color: black;
-    
+
 }
 .footer{
     background-color: black;
-   padding-top: 50px;
+    padding-top: 50px;
     color: white;
 }
 .footer h1{
@@ -165,9 +165,9 @@ input:checked + .slider:before {
     margin: 50px auto;
 }
 .footer_menu ul{
-   list-style: none;
-   margin: 0;
-   padding: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 .footer_menu ul li{
     margin-bottom: 10px;
@@ -183,4 +183,14 @@ input:checked + .slider:before {
 .footer_botton{
     border-top: 1px solid gray;
     padding: 10px 0;
+}
+//animation
+
+.d-flex{
+    animation-name: example;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }

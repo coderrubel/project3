@@ -1,15 +1,29 @@
-@media (max-width: 576px) { 
-.social{
-    margin-top: 50px;
-    margin-bottom: 50px
-}
-.social_box{
-    padding-bottom: 50px;
-}
-.creat{
-    padding: 50px 0;
-    font-size: 16px;
-    font-weight: 500;
-}
-
+@media (max-width: 768px) { 
+    h4{
+        font-size: 14px;
+    } 
+    .social{
+        margin-top: 50px;
+        margin-bottom: 50px
+    }
+    .social_box{
+        padding-bottom: 50px;
+    }
+    .creat{
+        padding: 50px 0;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .box_a{
+        font-size: 14px;
+        left: 15px;
+        bottom: 15px;
+    }
+    .box_a h1{
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .creat h2{
+        font-size: 20px;
+    }
 }
